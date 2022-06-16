@@ -1,5 +1,5 @@
 # tut1
-# My Tutorial
+
 
 ## Step 1
 
